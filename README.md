@@ -2,7 +2,7 @@
 
 A sophisticated implementation of a Snake game AI that utilizes Deep Q-Learning to master gameplay autonomously. This project demonstrates the practical application of reinforcement learning in game environments, showcasing how an AI agent can learn complex strategies through experience.
 
-![Snake AI Demo]([demo.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25qM2VmY3Q0M3NhNnJxdjMzaWRmMTMzamFyeGtiZzNkNWsxanI1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOAopvXMNeiBaAQfqy/giphy.gif))
+![Snake AI Demo]((https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25qM2VmY3Q0M3NhNnJxdjMzaWRmMTMzamFyeGtiZzNkNWsxanI1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOAopvXMNeiBaAQfqy/giphy.gif))
 
 ## 🌟 Features
 
